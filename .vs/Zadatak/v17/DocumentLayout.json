@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Zadatak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABBDE6B-6ED3-4B9B-97E3-A912FD184458}|Zadatak\\Zadatak.csproj|f:\\zadatak\\zadatak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABBDE6B-6ED3-4B9B-97E3-A912FD184458}|Zadatak\\Zadatak.csproj|solutionrelative:zadatak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Zadatak\\Zadatak\\Program.cs",
+              "RelativeDocumentMoniker": "Zadatak\\Program.cs",
+              "ToolTip": "F:\\Zadatak\\Zadatak\\Program.cs",
+              "RelativeToolTip": "Zadatak\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:06:11.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

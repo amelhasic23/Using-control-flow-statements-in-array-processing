@@ -1,0 +1,7 @@
+F:\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+F:\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+F:\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+F:\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+F:\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+F:\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+F:\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
